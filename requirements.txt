@@ -1,0 +1,10 @@
+jupyter-book
+ipython
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+sphinx-proof
+docutils
+sphinxcontrib-bibtex

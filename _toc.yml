@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: docs/home
+
+chapters:
+- file: docs/JESP_01_Introduccion_aa
+- file: docs/JESP_02_Modelos_regresion
+- file: docs/JESP_03_Modelos_clasificacion
+- file: docs/JESP_04_Redes_Neuronales
+#  sections:
+#  - file: docs/codes/JESP_01_Regresion_lineal
+#  - file: docs/codes/JESP_02_Regresion_polinomial
+#  - file: docs/codes/JESP_03_Regresion_no_lineal
+#  - file: docs/codes/JESP_04_Redes_Neuronales_Artificiales
+#  - file: docs/codes/JESP_05_Modelo_NARMAX
+- file: docs/references
